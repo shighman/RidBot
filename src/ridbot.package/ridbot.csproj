@@ -7,11 +7,12 @@
     <PackageProjectUrl>https://github.com/shighman/RidBot</PackageProjectUrl>
     <Description>Bot package for creating game bots.</Description>
     <Product>Rid Bot</Product>
-    <AssemblyVersion>1.0.1.0</AssemblyVersion>
-    <FileVersion>1.0.1.0</FileVersion>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <FileVersion>1.0.2.0</FileVersion>
     <PackageReleaseNotes>1.0.0 - Initial release
-1.0.1 - Renamed ridbot namespace</PackageReleaseNotes>
-    <Version>1.0.1</Version>
+1.0.1 - Renamed ridbot namespace
+1.0.2 - Added summary tags and a hitpoint percentage to IGameEntity</PackageReleaseNotes>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
 </Project>

@@ -26,7 +26,7 @@ A sample bot (needs GetRange and GetAngle):
         {
             //TODO: Deal with non-player items in the arena 
             //eg gameAssets.OrderBy(x => GetRange(you.Position, x.Position)).FirstOrDefault(z => z.Entity != EntityTypeEnum.Player);
-            //or gameAssets.FirstOrDefault(z => z.Entity == EntityTypeEnum.Health);
+            //or gameAssets.FirstOrDefault(z => z.Entity == EntityTypeEnum.Heal);
             //TODO: Deal with player items in the arena 
             //eg gameAssets.OrderBy(x => GetRange(you.Position, x.Position)).FirstOrDefault(z => z.Entity == EntityTypeEnum.Player);
         }
