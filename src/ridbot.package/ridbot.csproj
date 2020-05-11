@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Stuart &lt;ridbot@csdev.cc&gt;</Authors>
+    <RepositoryUrl>https://github.com/shighman/RidBot</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/shighman/RidBot</PackageProjectUrl>
+    <Description>Bot package for creating game bots.</Description>
+    <Product>Rid Bot</Product>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <PackageReleaseNotes>1.0.0 - Initial release
+1.0.1 - Renamed ridbot namespace</PackageReleaseNotes>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
